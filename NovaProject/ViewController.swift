@@ -8,6 +8,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var number1 = 35
+    var number2 = 79
 
     override func viewDidLoad() {
         super.viewDidLoad()
